@@ -1,0 +1,1 @@
+In the `bugSolution.js` file we use the `Linking.addEventListener` to monitor URL changes and also use the `Linking.getInitialURL()` to get the initial url. When the app starts we check both to ensure that we can get the initial URL.
